@@ -477,11 +477,6 @@ footer {
 
     }
 
-    iframe {
-        width: 1080px;
-        height: 500px;
-    }
-
 }
 
 @media (max-width:400px) and (min-width:300px) {
